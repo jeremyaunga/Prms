@@ -1,7 +1,7 @@
 
 # Pathfinder RMS
 
-**Pathfinder Restaurant Management System (RMS)** is a full-stack restaurant automation solution developed for **Delish Diner**. It streamlines daily operations such as order management, inventory tracking, table reservations, and payment processing, providing a seamless experience for both customers and staff.
+**Pathfinder Restaurant Management System (RMS)** is a full-stack restaurant automation solution developed for **Pathfinder Restaurant and Hotel**. It streamlines daily operations such as order management, inventory tracking, table reservations, and payment processing, providing a seamless experience for both customers and staff.
 
 ## 🔧 Technologies Used
 
