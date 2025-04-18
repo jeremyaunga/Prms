@@ -27,7 +27,7 @@
 > ⚠️ Screenshots are not included in this repository due to file size limits.  
 > You can view screenshots and a demo video via the link below:
 
-🎥 [System Demo & UI Preview (Google Drive)](https://drive.google.com/your-upload-link)
+🎥 [System Demo & UI Preview (Google Drive)]([https://drive.google.com/your-upload-link](https://drive.google.com/drive/folders/1mZr32P-d9oxT43STromHETT4OhLSLqTF?usp=drive_link)
 
 ## 🚀 Setup Instructions
 
@@ -45,7 +45,7 @@
    ```
 
 2. Import the database:
-   - Import `database.sql` via phpMyAdmin or MySQL CLI.
+   - Import `rms.sql` via phpMyAdmin or MySQL CLI.
 
 3. Configure database connection:
    - Open `config/db.php` (or your connection file)
@@ -59,7 +59,9 @@
 
 ## 👤 Developer
 
-**Name:** Aunga Jeremiah  
+**Name:** Aunga Jeremiah Gekonge
+**Phone No:** 0799844480
+**Email:** aungajeremiah1738@gmail.com
 **Reg No:** Reg-21/04665  
 **Project:** Pathfinder RMS – Final Year Project  
 **Supervisor:** Dr. Lucy Mburu  
